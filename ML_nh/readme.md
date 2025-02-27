@@ -2,7 +2,7 @@
 - Data domain : 의료/bio 관련 데이터
 - 데이터 사이즈는 500개부터 20만개까지 다양함.
 - 예측 변수 (y)는 모두 이진 변수로, 분류 문제
-- 데이터 링크:
+- 데이터 링크: \
   Thyroid Cancer Risk (212691 x 17): https://www.kaggle.com/datasets/mzohaibzeeshan/thyroid-cancer-risk-dataset \
   Alzheimer (74283 × 25): https://www.kaggle.com/datasets/ankushpanday1/alzheimers-prediction-dataset-global \
   Heart Failure prediction (918 × 12): https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction \
