@@ -4,7 +4,7 @@
 - 예측 변수 (y)는 모두 이진 변수로, 분류 문제
 - 데이터 링크: \
   Thyroid Cancer Risk (212691 x 17): https://www.kaggle.com/datasets/mzohaibzeeshan/thyroid-cancer-risk-dataset \
-  Alzheimer (74283 × 25): https://www.kaggle.com/datasets/ankushpanday1/alzheimers-prediction-dataset-global \
+  Alzheimer (74283 × 25): https://www.kaggle.com/datasets/ankushpanday1/alzheimers-prediction-dataset-global \  
   Breast Cancer Prediction (4024 × 16): https://www.kaggle.com/datasets/reihanenamdari/breast-cancer \ 
   Heart Failure prediction (918 × 12): https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction \
   Heart Disease (303 x 14) https://www.kaggle.com/datasets/yasserh/heart-disease-dataset?select=heart.csv
