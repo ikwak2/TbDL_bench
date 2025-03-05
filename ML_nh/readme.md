@@ -5,9 +5,9 @@
 - 데이터 링크: \
   Thyroid Cancer Risk (212691 x 17): https://www.kaggle.com/datasets/mzohaibzeeshan/thyroid-cancer-risk-dataset \
   Alzheimer (74283 × 25): https://www.kaggle.com/datasets/ankushpanday1/alzheimers-prediction-dataset-global \
+  Breast Cancer Prediction (4024 × 16): https://www.kaggle.com/datasets/reihanenamdari/breast-cancer \ 
   Heart Failure prediction (918 × 12): https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction \
-  Breast Cancer Prediction (569 × 32): https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset 
-   
+  Heart Disease (303 x 14) https://www.kaggle.com/datasets/yasserh/heart-disease-dataset?select=heart.csv
 
 ### 사용한 주요 머신러닝 모델
 1. Logistic Regression
