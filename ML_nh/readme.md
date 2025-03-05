@@ -22,7 +22,8 @@
 6. CatBosot
 
 데이터 분할: train 8 test 2 \
-머신러닝 모델 중 boosting 모델은 전부 optuna를 활용한 하이퍼파라미터 최적화 진행함. (Lightgbm, xgboost, catboost)
+feature selection: 데이터셋의 피처 중 '유의미한 피처'만 뽑아서 학습하는 과정을 거침 (t-test와 카이제곱 검정으로 각 변수의 p-value를 확인해서 판단함)\
+Hyperparameter: 머신러닝 모델 중 boosting 모델은 전부 optuna를 활용한 하이퍼파라미터 최적화 진행함. (Lightgbm, xgboost, catboost)
    
 ### 남은 할 일
 - thyroid cancer risk dataset 분할해서 학습시켜보기. (1k 이하, 5k, 10k, 15k 순서대로)
